@@ -8,6 +8,6 @@ We control the servo motor by rotating the potentiometer knob.
 We click on the play button and the LED stops glowing and the recorded sequence plays in a loop with the LED flashing once for every iteration.
 
 Team members :
-- Swaathy K (@tinycoder2)
-- Devika Rajasekar (@devika1402)
-- Ramya T (@R-my-T)
+- [Swaathy K](https://github.com/tinycoder2)
+- [Devika Rajasekar](https://github.com/devika1402)
+- [Ramya T](https://github.com/R-my-T)
