@@ -7,7 +7,7 @@ The red LED glows as soon as we click on the record button indicating that the r
 We control the servo motor by rotating the potentiometer knob. 
 We click on the play button and the LED stops glowing and the recorded sequence plays in a loop with the LED flashing once for every iteration.
 
-####Team members :
+#### Team members :
 - [Swaathy K](https://github.com/tinycoder2)
 - [Devika Rajasekar](https://github.com/devika1402)
 - [Ramya T](https://github.com/R-my-T)
